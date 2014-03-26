@@ -36,9 +36,5 @@
 # Copyright 2014 Your name here, unless otherwise noted.
 #
 class library {
-  # might need tilt installed first
-  package { 'puppet-library':
-    ensure   => installed,
-    provider => 'gem',
-  }
+  class { 'package': }
 }
