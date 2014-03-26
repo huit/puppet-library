@@ -1,6 +1,6 @@
 library
 
-This is the library module.
+This is the library module. Which should configure and the puppet-library ruby gem used to create a local copy of the puppet forge.
 
 License
 -------
@@ -13,4 +13,4 @@ Contact
 Support
 -------
 
-Please log tickets and issues at our [Projects site](http://projects.example.com)
+Please log tickets and issues at our [Projects site](https://github.com/huit/puppet-library)
